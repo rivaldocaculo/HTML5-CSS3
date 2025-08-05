@@ -1,0 +1,40 @@
+01 - O que vamos aprender no módulo 3*
+02 - O que é Git e GitHub?*
+03 - Instalando Git e GitHub*
+04 - Criando conta no GitHub*
+05 - Primeiro repositório git e GitHub*
+06 - Gerenciando repositórios GitHub
+07 - Hospedando site gratuitamente com GitHub Pages
+08 - Manutenção em sites Hospedados no GitHub Pages
+09 - Recursos Sociais do GitHub
+10 - Clonando Repositórios GitHub
+11 - GitHub em vários PC's
+12 - Download das imagens do capítulo
+13 - Colocando uma imagem de fundo no seu site
+14 - Imagem que se repetem no fundo do site
+15 - Configurando posição da imagem do fundo do site
+16 - Mudando o tamanho da imagem de fundo do site
+17 - background-attachment e shorthand
+18 - Centralização vertical de caixas
+19 - Um projecto completo usando Html e CSS
+20 - Download e organização dos arquivos
+21 - Ajustes no Html do projecto
+22 - Ajustes no CSS do projecto
+23 - Colocando as fontes ao projecto
+24 - Imagens com efeito Parallex simples
+25 - Hospedando o Projecto Cordel gratuitamente
+26 - Ainda podemos usar tabelas em Html?
+27 - Sua primeira tabela em Html
+28 - Alinhando o conteúdo em tabelas
+29 - Aprendendo a trabalhar com tabelas grandes
+30 - Caption e escopo de títulos em tabelas
+31 - Efeito Zebrado na tabela com Html e CSS
+32 - Cabeçalho fixo em tabelas grandes
+33 - Mesclagem de células
+34 - Desafios Parte 1
+35 - Exemplo de tabea completa
+36 - Escopo de grupo
+37 - Desafios parte 2
+38 - Agrupando colunas em coldgroup
+39 - tabelas responsivas
+40 - Fim do Módulo 3. O Módulo 4 vem aí!

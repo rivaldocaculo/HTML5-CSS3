@@ -1,0 +1,27 @@
+Módulo 3 - Aulas
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01 - O que vamos aprender no módulo 3
+Vamos aprender a hospedar os arquivos, as páginas utilizando o GitHub Pages
+
+Aula 02 - O que é Git e GitHub?
+Versionamento de software
+- Repositório Local/Remoto
+Um repositório é um local onde guardamos nossas coisas, haverá repositórios que vamos criar em nossas máquins e também repositórios que vamos criar online para colocarmos no ar e fazer backup dos nossos arquivos
+
+Um git é um software que vai mantendo versões do seu site ou seu código dentro do seu computador(Repositório local). 
+Uma das desvantagens do Repositório local é que podemos perder o nossos dados, a máquina pode queimar, o HD pode estar danificado, a memória RAM, a fonte de alimentação e etc. E para evitar esses problemos temos o Repositório Remoto. Uma das situações e querer abrir os arquivos em uma outra máquina de uma amigo em outro local? Como isso será possível? Será que vamos produzir um arquivo Zip e mandar no amigo? Parece não ser muito prático.
+
+O GitHub serve para tudo isso, hospedar nosso site gratuitamente, sendo assim o nosso amigo ou cliente terá como verificar o seu Projecto ou código, e uma depende da outra, o GitHub precisa do Git E o Git precisa também do GitHub, um depende do outro mas não é obrigatório
+
+Basicamente, o Git vai manter versões do seu código na sua máquina, já o GitHub vai manter versões ou backup do seu código na nuvem, sendo assim, poderá ter acesso apartir de qualquer coisa e qualquer máquina e tudo de forma gratuita. O Git foi criado pelo criador do Linux(Pesquisar) mas o GitHub não foi criado por ele, foi criado por outras 4 pessoas, mas actualmente foi comprado pela Microsoft.
+
+Repositório local é o Git que fica instalado na sua máquina.
+Repositório Remoto é o GitHub
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aula 03 - Instalando Git e GitHub
+Aula 04 - Criando conta no GitHub
+Conta GitHub: rivaldocaculo11
+Password: 2002#caculo#2002
+Meu GitHub: https://github.com/rivaldocaculo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aula 05 - Primeiro repositório git e GitHub

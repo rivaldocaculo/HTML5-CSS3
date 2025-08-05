@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídeas em Html5</title>
+</head>
+<body>
+    <h1>Imagem Dinámicas</h1>
+    <p>Abra esse arquivo em vários dispositivos ou aumenta e diminua o tamanho do seu browser.</p>
+
+    <picture>
+        <source media="(max-width: 750px)" srcset="../ex011/imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="../ex011/imagens/foto-m.png" type="image/png">
+        <img src="../ex011/imagens/foto-g.png" alt="Imagem flexível">
+    </picture>
+    <h1>Videos</h1>
+    <video width="500px" poster="../ex011/imagens/pexels-lia-castro-12340460.jpg" controls>
+        <source src="../ex011/midia/Meu-Video.mp4" type="video/mp4">
+    </video>
+
+    <h1>Inserido video externo</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UCVXWk2im2M?si=x02KiwpEhUVUW5KA" 
+    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    
+</body>
+</html>

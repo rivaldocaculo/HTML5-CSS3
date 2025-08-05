@@ -1,0 +1,27 @@
+Aula 06 - Como a internet chega na minha casa?
+
+A Internet surgiu em um momento de guerra, durante o período de guerra FRIA(1949).
+O que é a Guerra Fria? Uma guerra entre EUA e União Suviética.
+Pesquisa:
+
+Durante a guerra, a união suviética lançou o primeiro satélite artificial "Sputnik".
+Sputnik só tinha uma função, que era fazer a volta em torno do planeta, circunda a órbitra terreste e cair dentro d'água.
+Enquanto estava circundando ele emitia bips para que a união suviética pudesse captar esses bips durante a terra.
+
+OS EUA não sabia desse satélite da União Suviética, na mesmo época, o presidente Militar "Dwight Eisenhower" ficou preocupado com a evolução tecnológica da União Suviética por naquela época a União Suviética estava mais avançado em tecnologias do que os EUA. Ele fundou um órgão ou uma agência para estudos de tecnologias para guerra. Fundou a agência DARPA Que existe até aos dias de hoje, criou um monte de armas, um monte de tecnologias durante a guerra. E cria até hoje fora da guerra para que os EUA tenha a sua hegemonia mundial
+
+12 - Seu primeiro código Html
+
+O tamanho máximo de uma imagem para usar em um site é de 1500 de largura
+Aula 17 - tag img em Html5
+
+Hierarquia de titulos
+h1, h2, h3 e outros...
+
+Semânticas em Html5
+O Html está focado em semântica, ou em significa das formas.
+tags obsoletas do Html5 podem não funcionar daqui a alguns como algumas tags do html4 que já não estão em conformidades.
+
+Imagens que se adaptam sozinha:
+Pesquisar o que é taxa de rejeição, tem a ver com imagens.
+É uma medida para dar valor ou desvalorizar o seu site.

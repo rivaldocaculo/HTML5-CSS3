@@ -1,0 +1,43 @@
+Guia
+
+1- O que vamos aprender no módulo 02?
+2- Psicologia das cores*
+3- Representando cores com CSS3*
+4- Harmonia de Cores*
+5- Paleta de Cores*
+6- Como capturar cores de tela?*
+7- Como criar degradê com CSS?*
+8- Criando um exemplo real*
+9- Primeiros passos em tipografia*
+10- Anatomia do tipo*
+11- Famíias de fonte com CSS*
+12 - tamanho de fontes e suas medidas*
+13- Usando Google Fonts*
+14- Usando fontes externas baixadas*
+15- Capturando as fontes em um site*
+16- Dectando fontes dentro de images*
+17- Alinhamento de textos com CSS*
+18- Usando Id com CSS*
+19- As diferenças entre Id e Class*
+21- Pseudo-elementos em CSS*
+22- Modelos de Caixa Primeiros Passos*
+23- Modelos de caixa na Prática Parte 1*
+24- Modelos de caixa na Prática Parte 2*
+25- Grouping tags em html5*
+26- Sombras na caixas*
+27- Caixas com vértice arrendodadas*
+28- Bordas decoradas*
+29- Desafio do Módulo 2*
+30- Criando projectos a partir do zero*
+31- Navegando pelo projecto pronto*
+32- Planejando a estrutura do seu site*
+33- transformando o laout em código*
+34- Organizando o conteudo do site*
+35 - Variáveis em CSS*
+36- Responsividade para sites*
+37- Responsividade na pratica*
+38- Configurando o header e o menu do site*
+39- Melhorando o formato do conteudo*
+40- Rodapé, conteúdo periférico e links*
+41- tornando um video responsivo*
+42- Fim do Módulo 2

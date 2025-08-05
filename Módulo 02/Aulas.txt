@@ -1,0 +1,189 @@
+ctrl + shift + p serve para envelopar.
+
+Aula 01 - Psicologia das cores
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aula 02 - Representando cores com CSS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aula 03 - Harmonia de cores
+Paleta de cores tem que ter 3 a 5 cores.
+Normalmente temos que escolher a cor primária de um site. E depende muito da cor da logo que utilizaremos no nosso site.
+Nesse caso a cor primária do site vai basear-se na cor da logo.
+
+Cores complementares são cores que têm mais contrastes entre sí, ou seja, cores completamente opostas.
+Cores Análogas são cores que não têm contraste tão grandes, ou seja, cores vizinhas.
+Monocromia é quando trabalhamos apenas com uma cor para formar uma paleta, ou seja, formam um degradê.
+Degradê é modificar a saturação e luminosidade de qualquer cor.
+
+Aula 04 - Paleta Cores
+color.adobe.com - referência para pesquisar paletas de cores para seu site.
+
+Aula 05 - Como capturar cores de tela
+Aula 06 - Como criar degradê com CSS
+Para criar um gradiente em css utilizaremos a propriedade background-image:
+nesta propriedade nos dá vários funções interna para poder fazer o gradiente que é: linear-gradient()
+
+Aula 07 - Criando um exemplo real
+Aula 08 - Primeiros passos em tipografia
+tipografia é o estudo de como desenhar as letras. O Pai da Impressa é o Johannes Gutemberg.
+
+Aula 09 - Anatomia do tipo:
+A letra x é uma das letras muito importante para a construção de outras fontes, é o ponto de partida.
+Ela vai definir a altura base de todas as letras minúsculas, a essência de todas as letras está definada em linhas paralelas das letras minúsculas e chama-se altura-x.
+
+O tamanho das letras maiúsculas chama-se altura das maiúsculas. E a altura de umas das letras minúsculas vazadas para cima ou para baixo, do tipo b chama-se ascendente e do tigo g chama-se descendente
+
+A altura total de todas a letras Maiúsculas e Minúsculas chama-se corpo.
+Quando vamos definir a fonte temos que saber a altura do corpo dela que será definidas nas CSS. É a soma de todas as alturas. E tudo isso chama-se itens métricos.
+
+Anatómicos Geométricos, é um dos elementos mais importantes das fontes, o prolongoamento ou pé que existe em algumas fontes
+chama-se Serifa
+
+"O Seu cérebro consegue completar magistralmente as coisas"
+"Ler algo de uma maneira fluída sem ficar prestando atenção nas coisas"
+
+A fonte time New Roman é uma fonte da categoria Serifada, porque tem serifa. É mais utilizadas para livros e n para sites
+E fontes que não tem serifa chama-se Sans-Serif
+Para fontes de telas grandes como sites de preferência a fonte não serifada.
+
+Aula 9 - Familia de fontes com css
+Aula 10 - tamanhos de fontes e suas medidas
+Existem medidas absolutas e medidas relativas
+Medidas absolutas: cm, mm, in(polegada), px, pt, pc(paica)
+Medidas relativas: em(medida relativa ao tamanho actual da fonte, M Maiúsculo de uma fonte), ex(relativa a altura x), rem(tipo em, mas relativa ao root, a fonte configurada no bodi), vw(view-width - largura da viewport), vh(view-height - altura da viewport) vw e vh é medida em %, e %. Existem outras medidas mas essas são as mais utilizadas.
+A W3School recomenda usar o px e em em sites.
+16px é 1rem.
+32px é 2rem
+
+Aula 11- Peso, estilo e shorthand font
+Font-weight - peso(lighter normal bold bolder), também existe peso numérico que começa de 100 - 900, nem todas as fontes tem essa variação, ou seja, não te permite colocar o peso numérico
+
+Propriedade shorthand font - é colocar várias estilização em uma única linha. 
+sintaxe: font-style -> font-weight -> font-size -> font-family
+
+13 - Usando Google Fonts
+14 - Usando fontes externas baixadas:
+Sites de fontes: Google fonts, DaFont(Fontes com desenhos)
+@font-face {
+            font-family: ;
+            src: url();
+        } Para colocar fontes baixadas de outros sites
+ValentineSoul.ttf
+tipos de formatos: 
+-opentype(otf)
+-truetype(ttf)
+-embedded-opentype
+-truetype-aat
+-svg
+
+Aula 15- Capturando as fontes em um site
+Baixar a extensão Ninja fonts do chrome
+
+Aula - 16- Dectando fontes dentro de images
+Font-Finder,fontsquirrel.com, myfonts.com
+
+Aula 17 - Alinhamento de textos com CSS
+Aula 18 - Usando ID com CSS
+Aula 19 - As diferenças entre Id e Class
+
+Aula 20- Pseudo-classes em CSS:
+Pseudo-classe representa-se por ':' e está relacionada a um elemento ou uma classe ou estado de um determinado elemento
+Propriedade display: inline-block é tudo na mesma linha
+
+div > p (Diz que só vai mexer em um parágrafo que está dentro da div)
+
+Aula 21- Pseudo-elementos em CSS
+Pseudo-elemento representa-se por '::'
+Pode agir nas classes, nos id's, nos elementos. Eles mexem no conteúdo do elemento
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aula 22- Modelos de Caixa Primeiros Passos
+Html e css box model - Pesquisars
+Anatomia de uma caixa
+Height - Altura do elemento
+Width - Largura do elemento
+Padding - Espaçamento interno do elemento
+Margin - Espaçamento externo do elemento
+Border e outline
+A borda é dentro do elemento e outline é fora do elemento
+
+tipos de caixa:
+caixa do tipo box-level - sempre vai iniciar em uma linha nova, ele ocupa a largura total da tela(viewport) e vai pular para a próxima linha antes de continuar o conteúdo. 
+Ex: div, h1-h6, p, main, header, nav, article, aside, footer, form, video
+
+caixa do tipo inline-level - sempre vai iniciar na mesma linha, ele não ocupa o tamnho total da viewport, ele continua na mesma linha o conteúdo. (span)
+Ex: a, code, small, strong, em, sup, sub, label, button, input, select
+
+Aula 23- Modelos de caixa na Prática Parte 1 
+Display: block; é um elemento do tipo box-level
+
+Aula 24- Modelos de caixa na Prática Parte 2
+
+Modelo de caixa refere-se ao tamanho da caixa, padding, margin, border, outline, display e outros
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aula 25- Grouping tags em html5
+<div> e <span> fazem parte do html4, o seu uso já está no mercado há muitos anos, mas ele ainda é utilizável no Html5
+Porém, temos as grouping tags semânticas...
+<header> - cabeçalho
+<main> - principal
+<footer> - rodapé
+Isto aí não deixa de ser uma div incorporada, só que os mecanismos de buscas e o seu navegador conseguem valorizar mais o seu conteúdo principal indepentemente do cabeçalho ou rodapé.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aula 26- Sombras na caixas
+box-shadow: 1px(deslocamento horizontal) 1px(deslocamento vertical) 1px(espalhamento) black(cor da sombra);
+box-shadow: 1px 1px 1px black;
+
+Aula 27- Caixas com vértice arrendodadas(bordas)
+border-radius: 5px 5px 5px 5px; - ShortHand
+border-top-left-radius
+border-top-right-radius
+border-bottom-right-radius
+border-botton-left-radius
+
+Aula 28- Bordas decoradas
+São bordas com imagens
+border-image-source
+border-image-slice
+border-image-repeat
+Mas antes disso temos que ter um borde: 1px solid #000;
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aula 29- Desafio do Módulo 2
+Pesquisar, muchileiro das galáxias
+
+Aula 30 - Criando um projecto do zero
+Aula 31 - Navegando pelo projecto pronto
+Aula 32 - Planejando a estrutura do seu site
+Antes de começarmos a colocar a mão na massa é necessário planejarmos como será o nosso site, o layout.
+E um dos sites para fazer isso é o Macflow.com, embora que não é 100% gratuito.
+Mockflow é o mapa visual do projecto
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aula 33 - transformando o layout em código
+Aula 34- Organizando o conteudo do site
+Aula 35- Variáveis em CSS
+Para criar variáveis temos que colocar dentro do pseudo-class :root{};
+
+Aula 36- Responsividade para sites
+Responsividade significa adaptar o seu site eu diversos tamanhos de tela. Phone, computador, tablet, relógio e tv.
+Um dos recursos mais simples da responsividade é limitar o tamanho mínimo e o tamanho máximo da interface.
+
+Aula 37- Responsividade na pratica
+Aula 38- Configurando o header e o menu do site
+Aula 39- Melhorando o formato do conteudo
+Aula 40- Rodapé, conteúdo periférico e links
+Aula 41- tornando um video responsivo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+1-Começa aqui o novo
+2-O que vamos aprender no módulo 1
+3-Precisamos fazer um acordo
+4-Será que este curso é pra mim
+5-Melhores livros para aprender HTML5 E CSS3
+6-Como a internet chega na minha casa
+7-Como a internet funciona
+8-O que é domínio e hospedagem
+9-A diferença entre HTML, JAVASCRIPT E CSS
+10-Front end, back end e full stack
+11-Instalação de todas ferramentas
+12-Seu Primeiro código HTML
+13-Parágrafos e Quebras
+14-Símbolos e Emoji no Site
+15-Você tem direito a usar qualquer imagem no seu site
+16-Quais são os formatos para imagens na web
+17-O tamanho das imagens importa para um site
+18-A tag img em HTML5 - @Curso em Vídeo HTML5 e CSS3
+19-Como mudar o Favicon de um site
+20-Hierarquia de título
+21-Semântica no HTML5 é importante*
+22-Negrito e itálico do jeito certo
+23-Formatção adicionais em HTML
+24-Citações e Códigos*
+25-Listas OL E UL
+26-Listas Mistas e de definição*
+27-Línks e Âncoras HTML5*
+28-Links internos*
+29-Links para Download*
+30-Desafios Propostos*
+31-Imagens dinâmicas*
+32-Imagens que se adaptam sozinhas*
+33-Colocando áudio no seu site*
+34-Formatação de video para seu site*
+35-Vídeos em Hospedagem Própria*
+36-Incorporação de videos externos*
+37-Desafio um site com videos*
+38-Estilos Css inline
+39-Estilos Css internos
+40-Estilos Css Externos
+41-Fim do Módulo 1, certificado-
