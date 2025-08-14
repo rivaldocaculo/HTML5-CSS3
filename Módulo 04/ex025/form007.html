@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="Pt-Br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulários</title>
+</head>
+<body>
+    <h1>+ Práticas</h1>
+    <form action="cadastro.php" method="get">
+        <p>
+            <label for="iestado">Provincia:</label>
+            <select name="estado" id="iestado">
+                <option value="">--- Escolha ---</option>
+                <optgroup label="Provincia">
+                    <option value="BEN">Benguela</option>
+                    <option value="HUA">Huambo</option>
+                    <option value="CN">C.Norte</option>
+                    <option value="BIE">Bié</option>
+                </optgroup>
+
+                <optgroup label="Municípios Luanda">
+                    <option value="VI">Viana</option>
+                    <option value="MA">Maianga</option>
+                    <option value="BE">Belas</option>
+                    <option value="CA">Cazenga</option>
+                </optgroup>
+            </select>
+        </p>
+
+        <p>
+            <label for="iprof">Profissão:</label>
+            <input type="text" name="prof" id="iprof" list="listaProf">
+            <datalist id="listaProf">
+                <option>Administrador</option>
+                <option>Advogado</option>
+                <option>Policia Militar</option>
+                <option>Programador</option>
+                <option>Enfermeiro</option>
+            </datalist>
+        </p>
+
+        <p>
+            <label for="imsg">Mensagem:</label><br>
+            <textarea name="msg" id="img" cols="30" rows="10" placeholder="Sua Mensagem"></textarea>
+        </p>
+
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </p>
+    </form>
+</body>
+</html>
